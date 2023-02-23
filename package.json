@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@tomphttp/bare-server-node": "^1.0.2-beta-readme2",
+    "@tomphttp/bare-server-node": "^1.2.3",
     "bare-server-node": "github:tomphttp/bare-server-node",
     "jquery": "^3.6.1",
     "jsdom": "^20.0.3",
