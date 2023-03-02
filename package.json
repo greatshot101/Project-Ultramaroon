@@ -8,11 +8,6 @@
     "underscore": "^1.13.6",
     "ws": "^8.11.0"
   },
-  "overrides": {
-    "optimist": {
-      "minimist": "0.2.1"
-    }
-  },
   "name": "uv-app",
   "version": "1.0.0",
   "description": "Ultraviolet instance",
